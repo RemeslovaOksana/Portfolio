@@ -1,4 +1,4 @@
-# :round_pushpin:Portfolio 
+# Portfolio 
 This is the repository of Oksana Remeslova's portfolio.
 
 ## :wink:About me
