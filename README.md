@@ -12,3 +12,4 @@ I understand that my path as a QA Engineer has just begun, but I can say with co
 - [Test Cases](https://github.com/RemeslovaOksana/Portfolio/tree/main/test-cases)
 - [API Testing](https://github.com/RemeslovaOksana/Portfolio/tree/main/api-testing)
 - [Documentation](https://github.com/RemeslovaOksana/Portfolio/tree/main/documentation)
+- [SQL](https://github.com/RemeslovaOksana/Portfolio/tree/main/sql)
